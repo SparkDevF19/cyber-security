@@ -1,5 +1,4 @@
 # Radio Frequency Hacking
-## SparkDev Fall 2019
 
 ## Team
 
