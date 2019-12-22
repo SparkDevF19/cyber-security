@@ -10,4 +10,4 @@ For our project, we tried to create a device using the Arduino microcontroller t
 
 [Demo Day Presentation](/SparkDev_Fall_2019_Poster.pdf)
 
-[All SparkDev Fall 2019 Projects](github.com/SparkDevF19)
+[All SparkDev Fall 2019 Projects](/SparkDevF19)
